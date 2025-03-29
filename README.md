@@ -1,0 +1,1 @@
+# randow_qr_genetor
